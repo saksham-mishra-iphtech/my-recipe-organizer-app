@@ -101,9 +101,9 @@ Manage your favorite dishes, create your own recipes, and explore mouthwatering 
 
 ---
 
-## 📸 App Screenshots
+## 📸 VideoLink
 
-> _(Add screenshots here for Homepage, Create Recipe Modal, Favorite Recipes page, etc.)_
+>https://go.screenpal.com/watch/cTfuhCnQhVA
 
 ---
 
