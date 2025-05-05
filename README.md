@@ -54,6 +54,7 @@ Manage your favorite dishes, create your own recipes, and explore mouthwatering 
   - Popularity
 - Dynamic table updates as you type or sort.
 
+
 ### 🧲 Drag and Drop Ingredients
 - Select ingredients by **dragging and dropping** from the available pantry into your recipe.
 
