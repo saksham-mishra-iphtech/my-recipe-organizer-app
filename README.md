@@ -123,6 +123,7 @@ Manage your favorite dishes, create your own recipes, and explore mouthwatering 
 - Export shopping lists 🛒
 
 ---
+### 🔥 Watch Live project here: https://recipe-organize.netlify.app/
 
 ## 🤝 Contributing
 
